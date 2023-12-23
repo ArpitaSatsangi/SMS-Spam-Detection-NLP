@@ -21,6 +21,13 @@ preprocessing puts data in workable form and highlights features in the text tha
 * Lemmatization and stemming. This is when words are reduced to their root forms to process.
 * Part-of-speech tagging. This is when words are marked based on the part-of speech they are -- such as nouns, verbs and adjectives.
 
+
+Approaches used for nlp:
+1. heuristic approach
+2. machine learning approach
+3. deep learning approach
+
+
 Once the data has been preprocessed, an algorithm is developed to process it. There are many different natural language processing algorithms, 
 but two main types are commonly used:
 
