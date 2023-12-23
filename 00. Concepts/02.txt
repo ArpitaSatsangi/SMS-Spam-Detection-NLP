@@ -1,0 +1,9 @@
+* Speech recognition : also called speech-to-text, is the task of reliably converting voice data into text data. 
+Speech recognition is required for any application that follows voice commands or answers spoken questions. 
+What makes speech recognition especially challenging is the way people talk—quickly, slurring words together,
+with varying emphasis and intonation, in different accents, and often using incorrect grammar.
+
+
+* Part of speech tagging : also called grammatical tagging, is the process of determining the part of speech 
+of a particular word or piece of text based on its use and context. Part of speech identifies ‘make’ as a 
+verb in ‘I can make a paper plane,’ and as a noun in ‘What make of car do you own?’
