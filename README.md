@@ -59,9 +59,12 @@
   
 * Model Evaluation:
   - Evaluated models based on accuracy, precision, and confusion matrices.
-  - Gaussian Naive Bayes achieved an accuracy of 88.01% and precision of 53.15%.
-  - Multinomial Naive Bayes outperformed with an accuracy of 96.42% and precision of 83.44%.
-  - Bernoulli Naive Bayes demonstrated exceptional accuracy (97.00%) and precision (97.35%), making it the preferred model for spam detection.
+
+![spam](https://github.com/ArpitaSatsangi/SMS-Spam-Detection-NLP/assets/107709451/27a77b2f-1382-4a23-9737-fe25fcbf6418)
+
+
+![not spam](https://github.com/ArpitaSatsangi/SMS-Spam-Detection-NLP/assets/107709451/efb1439f-5d21-4de4-a5b3-f9f9e76d874b)
+
 
 ## Conclusion
 
